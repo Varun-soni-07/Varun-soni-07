@@ -1,6 +1,6 @@
 <!-- 👋 Hi, I'm Varun Soni -->
 <h1 align="center">Hey there, I'm <a href="https://github.com/VarunSoni" target="_blank">Varun Soni</a> 👋</h1>
-<h3 align="center">🚀 Java Developer | SQL Enthusiast | Spring Boot | Hibernate | Problem Solver</h3>
+<h3 align="center"> Java Developer | SQL Enthusiast | Spring Boot | Hibernate | Problem Solver</h3>
 
 ---
 
@@ -39,13 +39,13 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/varunsoni8450" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:varunsoni@example.com">
+  <a href="mailto:varunsoni10903@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/VarunSoni" target="_blank">
+  <a href="https://github.com/Varun-soni-07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
