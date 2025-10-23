@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarunSoni&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSoni&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun-soni-07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-soni-07&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VarunSoni/VarunSoni/main/assets/line.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Varun-soni-07/Varun-soni-07/main/assets/line.svg" width="100%" />
 </p>
 
 <p align="center">
